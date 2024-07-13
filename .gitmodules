@@ -1,0 +1,6 @@
+[submodule "Flight-Backend"]
+	path = Flight-Backend
+	url = https://github.com/Berro-1/Flight-Backend.git
+[submodule "Flight-Frontend"]
+	path = Flight-Frontend
+	url = https://github.com/Berro-1/Flight-Frontend.git
